@@ -1,3 +1,7 @@
+This repository contains the code for our COLING 2018 paper:
+
+*[Dynamic Multi-Level Multi-Task Learning for Sentence Simplification](https://arxiv.org/abs/1806.07304)*.
+
 # Data Preprocessing
 Please follow the instructions from [Zhang et al. 2017](https://github.com/XingxingZhang/dress) for downloading the pre-processed dataset.
 To build the .bin files please follow the instructions from [See et al. 2017](https://github.com/abisee/pointer-generator), or [here](https://github.com/abisee/cnn-dailymail).
