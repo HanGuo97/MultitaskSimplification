@@ -1,4 +1,3 @@
-from evaluation_utils import text_summarization
 from evaluation_utils import sentence_simplification
 SUPPORTED_TASKS = ["WikiLarge", "WikiSmall", "Newsela"]
 
